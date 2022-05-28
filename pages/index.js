@@ -10,7 +10,7 @@ export default function Home() {
         alignItems: 'center',
       }}
     >
-      <Link href="/get-static-paths">
+      <Link href="/get-static-paths/1">
         <a>get static paths</a>
       </Link>
       <Link href="/get-static-props">
